@@ -129,12 +129,11 @@
 
 ```
 .
-├── app.py          # Flask-бэкенд (роуты, логика, API)
+├── app.py          
 ├── templates/
-│   └── index.html  # Главная страница с вкладками
+│   └── index.html  
 ├── static/
-│   └── style.css   # Стили
+│   └── style.css   
 ├── requirements.txt
-└── README.md
 ```
 
