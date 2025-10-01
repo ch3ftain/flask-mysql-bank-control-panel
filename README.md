@@ -1,2 +1,8 @@
 # flask-mysql-bank-control-panel
-Simulator of bank control panel. Created with Flask, HTML, CSS and MySQL. in README.md 
+
+Симулятор панели управления банком, созданный на Flask, HTML/CSS и MySQL.
+Проект реализует удобный интерфейс для администрирования клиентов, сотрудников, счетов, кредитов и долгов в банковской системе.
+
+Подробнее в README.md
+
+
