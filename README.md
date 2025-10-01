@@ -61,8 +61,8 @@
 1. **Клонируйте репозиторий**
 
    ```bash
-   git clone https://github.com/your-username/epsilon-bank-panel.git
-   cd epsilon-bank-panel
+   git clone https://github.com/your-username/flask-mysql-bank-control-panel.git
+   cd flask-mysql-bank-control-panel
    ```
 
 2. **Создайте виртуальное окружение**
